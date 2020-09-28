@@ -1,22 +1,41 @@
 [
   {
-    "آیدی": "#شاه_تنها",
-    "نام کانال": "#شاه_تنها"
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
   },
   {
-    "آیدی": "@a_a_team",
-    "نام کانال": "a.a.تیم"
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
   },
   {
-    "آیدی": "@A_A_TEAM_project",
-    "نام کانال": "پروژه هایa.a"
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
   },
   {
-    "آیدی": "amirheesam1000",
-    "نام کانال": "#تنها"
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
   },
   {
-    "آیدی": "#شاه_تنها",
-    "نام کانال": "#شاه_تنها"
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
+  },
+  {
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
+  },
+  {
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
+  },
+  {
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
+  },
+  {
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
+  },
+  {
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
+  },
+  {
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
+  },
+  {
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
+  },
+  {
+    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
   }
 ]
