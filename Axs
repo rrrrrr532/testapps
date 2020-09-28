@@ -1,41 +1,5 @@
-[
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  },
-  {
-    "عکس": "https://8pic.ir/uploads/Screenshot-20200911-202633.jpg"
-  }
-]
+{
+  "عنوان": "بروز رسانی",
+  "متن": "بروز رسانی موجود نیست",
+  "تایید": "باشه"
+}
